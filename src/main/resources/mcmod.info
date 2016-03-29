@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zevfood",
+  "name": "Zev's Food Mod",
+  "description": "Zev's Food Mod, adding vanilla-style food items.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Zev613"],
+  "credits": "Zev613, author, Forge creators, PamsHarvestcraft for inspiration.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

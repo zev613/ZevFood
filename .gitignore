@@ -1,62 +1,69 @@
-.gradle
-build/
+/bin/*
 
-# Ignore Gradle GUI config
-gradle-app.setting
+/config/*
 
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
+/.gradle/*
 
-# Cache of project
-.gradletasknamecache
+/crash-reports/*
 
-# =========================
-# Operating System Files
-# =========================
+/OtherAssets/*
 
-# OSX
-# =========================
+/eclipse/*
 
-.DS_Store
-.AppleDouble
-.LSOverride
+/jars/*
 
-# Thumbnails
-._*
+/lib/*
 
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
+!/gradle/*
 
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+/.settings/*
 
-# Windows
-# =========================
+/.metadata/*
 
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+/build/*
 
-# Folder config file
-Desktop.ini
+/logs/*
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+/mods/*
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+/saves/*
 
-# Windows shortcuts
+/resourcepacks/*
+/.classpath
+
+/.project
+
+
+!build.gradle
+!/src/main/java/*
+
+!/src/main/resources/mcmod.info
+
+!/src/main/resources/*
+
+*.bat
+
+*.sh
+
+/src/main/resources/assets/zevadditions/textures/blocks/Unused/*
+
+/src/main/resources/assets/zevadditions/textures/blocks/NewestBlocks/*
+
+/src/main/resources/assets/zevadditions/textures/items/Unused/*
+
+/src/main/resources/assets/zevadditions/textures/superheroes/*
+
+
+
+
+/usernamecache.text
+
+/options.text
+
+/nativelog.text
+
 *.lnk
+
+*.png
+
+
