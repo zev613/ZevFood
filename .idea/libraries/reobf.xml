@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="reobf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/tmp/reobf/toObf3665224315304146027.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/tmp/reobf/toObf3944372890759847906.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

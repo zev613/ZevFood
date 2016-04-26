@@ -17,7 +17,7 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "0.0.4"
+version = "0.0.2"
 group= "com.zev613.zevfood" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "ZevFood"
 
